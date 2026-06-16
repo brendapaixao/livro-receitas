@@ -7,4 +7,6 @@
 
 
 * Macarrão vermelho
+* Bolo de cenoura
+* Pudim
 
